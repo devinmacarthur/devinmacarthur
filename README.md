@@ -12,8 +12,8 @@ By day I run the data platform and automation for a 41,000-member statewide orga
 | **[gateway-confluence](https://github.com/devinmacarthur/gateway-confluence)** | Community platform for East Portland's Gateway district: forum, mutual aid board, events with RSVP, resource directory. Runs without its backend; features degrade instead of breaking. | Next.js, Supabase, TypeScript |
 | **[ojd-eviction-scraping](https://github.com/devinmacarthur/ojd-eviction-scraping)** · [top filers, 2021](https://devinmacarthur.github.io/TopEvictors2021/) | Turns Oregon eviction court records into a dataset: Scrapy spiders into PostgreSQL, R for the analysis file. Built for eviction research at Portland State University. | Python, Scrapy, PostgreSQL, R |
 
-#### Elsewhere
+#### Working with me
 
-Writing: [The Systems Inquiry](https://devinmacarthur.substack.com), essays on institutions, measurement, and how systems behave.
+I take contract work through [Cascadia Systems](https://cascadiasystems.org), my data-systems practice in Portland, Oregon. The usual starting point is a thirty-day engagement: map where an organization's manual hours go, automate the costliest process, and leave a roadmap for the rest. After that, fixed-scope builds.
 
-Portland, Oregon.
+[Get in touch](https://cascadiasystems.org/contact/) · [Portfolio](https://devinmacarthur.github.io/) · Writing: [The Systems Inquiry](https://devinmacarthur.substack.com)
